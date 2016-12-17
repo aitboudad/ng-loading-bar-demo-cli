@@ -1,6 +1,6 @@
 import { UiRouterAotDemoPage } from './app.po';
 
-describe('ui-router-aot-demo App', function() {
+describe('ng-loading-bar-demo App', function() {
   let page: UiRouterAotDemoPage;
 
   beforeEach(() => {
